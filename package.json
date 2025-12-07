@@ -1,8 +1,8 @@
 {
     "scripts": {
         "build": "tsc",
-        "start": "node out/6/1.js",
-        "dev": "ts-node src/6/1.ts"
+        "start": "node out/6/2.js",
+        "dev": "ts-node src/6/2.ts"
     },
     "devDependencies": {
         "@types/node": "^24.10.1",
